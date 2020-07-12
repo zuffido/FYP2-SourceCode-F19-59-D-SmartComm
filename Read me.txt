@@ -1,0 +1,10 @@
+Project Instructions:
+
+Steps to run the code:
+
+	1) Go to "backend" directory and open command prompt.
+	2) Install python modules using pip.
+	3) In the command prompt run the code "python apiMain.py", to run the backend server.
+	4) Go to "smartcomm(revised)" directory and open command prompt.
+	5) Install node modules using npm.
+	6) Then run the command "npm start", the application will start at localhost:3000 in the browser.
